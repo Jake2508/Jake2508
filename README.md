@@ -67,18 +67,7 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 
 
 ---
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.linkedin.com/in/jake-rose123/" target="_blank" rel='noopener noreferrer'>
-        <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="gmail" width="40px"/>
-    </a>
-    <a href="mailto:rosejake400@gmail.com" target="_blank" rel='noopener noreferrer'>
-    <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
-<!-- End Footer -->
+
 
 <!-- 
 🔗 Links 🔗
