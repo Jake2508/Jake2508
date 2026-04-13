@@ -58,9 +58,9 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <div class="stats" align="center">
 
-![Jake Rose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jake2508&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Jake Rose's GitHub Stats](./github-stats.svg)
+![Most Used Languages](./top-langs.svg)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jake2508&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
