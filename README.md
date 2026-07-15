@@ -1,4 +1,8 @@
-<h1 style="color: #44AEFB;"> 💻 Jake Rose </h1>
+<p align="left">
+  <img src="./Bat.gif" align="right" width="32" alt="Animated Bat">
+</p>
+
+<h1 style="color:#44AEFB;">💻 Jake Rose</h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 
