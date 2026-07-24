@@ -1,10 +1,12 @@
 <!-- ==================== Header / hero ==================== -->
 <img src="./assets/Bat.gif" align="right" width="42" alt="Animated Bat">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg">
-  <img alt="Jake Rose — Software Developer · Test Automation · Game Dev" src="./assets/header-light.svg" width="560">
-</picture>
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg">
+    <img alt="Jake Rose — Software Developer · Test Automation · Game Dev" src="./assets/header-light.svg" width="560">
+  </picture>
+</h1>
 
 👋 Hey there! I'm a software developer passionate about building innovative and user-friendly projects. I have experience in full-stack development, test automation, and game development, working primarily with C#, JavaScript, and React.
 
