@@ -24,7 +24,7 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 
 <!-- Icons: self-contained animated tech-stack strip (gentle wave + pulse) -->
 <!-- Source SVG: ./assets/tech-stack.svg  •  Icon artwork: https://devicon.dev/ -->
-<div align="center">
+<div align="left">
   <img src="./assets/tech-stack.svg" width="520" alt="Languages and tools: C#, C, JavaScript, VS Code, React, Node.js, npm" />
 </div>
 
@@ -41,7 +41,7 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 <!-- Begin Stats Cards -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Both cards rendered at a matching height so they align evenly side by side. -->
-<div align="center">
+<div align="left">
   <img src="./assets/github-stats.svg" height="175" alt="Jake Rose's GitHub Stats" />
   &nbsp;&nbsp;
   <img src="./assets/top-langs.svg" height="175" alt="Most Used Languages" />
