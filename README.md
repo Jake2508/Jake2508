@@ -1,9 +1,9 @@
 <!-- ==================== Header / hero ==================== -->
-<img src="./Bat.gif" align="right" width="42" alt="Animated Bat">
+<img src="./assets/Bat.gif" align="right" width="42" alt="Animated Bat">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header.svg">
-  <img alt="Jake Rose — Software Developer · Test Automation · Game Dev" src="./header-light.svg" width="560">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg">
+  <img alt="Jake Rose — Software Developer · Test Automation · Game Dev" src="./assets/header-light.svg" width="560">
 </picture>
 
 👋 Hey there! I'm a software developer passionate about building innovative and user-friendly projects. I have experience in full-stack development, test automation, and game development, working primarily with C#, JavaScript, and React.
@@ -17,15 +17,15 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 <!-- ==================== Languages and Tools ==================== -->
 <h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./heading-languages.svg">
-    <img alt="Languages and Tools" src="./heading-languages-light.svg" height="30">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-languages.svg">
+    <img alt="Languages and Tools" src="./assets/heading-languages-light.svg" height="30">
   </picture>
 </h2>
 
 <!-- Icons: self-contained animated tech-stack strip (gentle wave + pulse) -->
-<!-- Source SVG: ./tech-stack.svg  •  Icon artwork: https://devicon.dev/ -->
+<!-- Source SVG: ./assets/tech-stack.svg  •  Icon artwork: https://devicon.dev/ -->
 <div align="center">
-  <img src="./tech-stack.svg" width="520" alt="Languages and tools: C#, C, JavaScript, VS Code, React, Node.js, npm" />
+  <img src="./assets/tech-stack.svg" width="520" alt="Languages and tools: C#, C, JavaScript, VS Code, React, Node.js, npm" />
 </div>
 
 <br>
@@ -33,8 +33,8 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 <!-- ==================== Statistics ==================== -->
 <h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./heading-statistics.svg">
-    <img alt="Statistics" src="./heading-statistics-light.svg" height="30">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/heading-statistics.svg">
+    <img alt="Statistics" src="./assets/heading-statistics-light.svg" height="30">
   </picture>
 </h2>
 
@@ -42,9 +42,9 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Both cards rendered at a matching height so they align evenly side by side. -->
 <div align="center">
-  <img src="./github-stats.svg" height="175" alt="Jake Rose's GitHub Stats" />
+  <img src="./assets/github-stats.svg" height="175" alt="Jake Rose's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="./top-langs.svg" height="175" alt="Most Used Languages" />
+  <img src="./assets/top-langs.svg" height="175" alt="Most Used Languages" />
 </div>
 <!--  End Stats Cards -->
 

@@ -21,7 +21,7 @@ jobs:
           # Re-themed to match the green README hero. Transparent bg (bg_color=00000000)
           # so the card suits both light and dark GitHub themes.
           options: username=Jake2508&show_icons=true&border_radius=12&hide_title=false&title_color=3fb950&icon_color=3fb950&text_color=8b949e&bg_color=00000000&ring_color=3fb950&border_color=30363d&count_private=true
-          path: github-stats.svg
+          path: assets/github-stats.svg
           # Stats card needs account-wide data (rank, totals, private contributions),
           # which the repo-scoped GITHUB_TOKEN cannot access ("Resource not accessible
           # by integration"). A Personal Access Token is required here.
@@ -32,13 +32,13 @@ jobs:
         with:
           card: top-langs
           options: username=Jake2508&layout=compact&border_radius=12&title_color=3fb950&text_color=8b949e&bg_color=00000000&border_color=30363d
-          path: top-langs.svg
+          path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add github-stats.svg top-langs.svg
+          git add assets/github-stats.svg assets/top-langs.svg
           git commit -m "Update stats" || exit 0
           git push
