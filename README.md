@@ -39,11 +39,11 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<div class="stats" align="center">
-
-![Jake Rose's GitHub Stats](./github-stats.svg)
-![Most Used Languages](./top-langs.svg)
-
+<!-- Both cards rendered at a matching height so they align evenly side by side. -->
+<div align="center">
+  <img src="./github-stats.svg" height="175" alt="Jake Rose's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="./top-langs.svg" height="175" alt="Most Used Languages" />
 </div>
 <!--  End Stats Cards -->
 
