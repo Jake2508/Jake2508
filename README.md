@@ -10,7 +10,7 @@
 
 👋 Hey there! I'm a software developer passionate about building innovative and user-friendly projects. I have experience in full-stack development, test automation, and game development, working primarily with C#, .NET, JavaScript, and React.
 
-My goal is to build applications that are accessible and easy to use for everyone, and to take the time to get the details right.
+My goal is to build applications that are accessible and easy to use for everyone, right down to the little details.
 
 Outside of coding, I stay active with lots of climbing and love to immerse myself in horror novels and classic literature. Some of my favourite authors include Robert McCammon, Stephen King, Ray Bradbury, and H.G. Wells.
 
