@@ -48,8 +48,6 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 </div>
 <!--  End Stats Cards -->
 
----
-
 <!--
 🔗 Links 🔗
 - My Github Portfolio Page:
