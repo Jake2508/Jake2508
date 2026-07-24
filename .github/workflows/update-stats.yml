@@ -32,7 +32,10 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=Jake2508&layout=compact&border_radius=12&title_color=3fb950&text_color=6e7681&bg_color=00000000&border_color=30363d
+          # card_width widens this card so that, at the shared display height
+          # (height=175 in the README), its width lines up with the stats card
+          # for an even, matched pair.
+          options: username=Jake2508&layout=compact&border_radius=12&title_color=3fb950&text_color=6e7681&bg_color=00000000&border_color=30363d&card_width=395
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
