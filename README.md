@@ -8,9 +8,9 @@
   </picture>
 </h1>
 
-👋 Hey there! I'm a software developer passionate about building innovative and user-friendly projects. I have experience in full-stack development, test automation, and game development, working primarily with C#, JavaScript, and React.
+👋 Hey there! I'm a software developer passionate about building innovative and user-friendly projects. I have experience in full-stack development, test automation, and game development, working primarily with C#, .NET, JavaScript, and React.
 
-My goal is to create applications that enhance accessibility and improve user experience. I'm always seeking ways to optimise workflows, write clean code, and build efficient solutions.
+My goal is to build applications that are accessible and easy to use for everyone, and to take the time to get the details right.
 
 Outside of coding, I stay active with lots of climbing and love to immerse myself in horror novels and classic literature. Some of my favourite authors include Robert McCammon, Stephen King, Ray Bradbury, and H.G. Wells.
 
@@ -25,7 +25,8 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 </h2>
 
 <!-- Icons: self-contained animated tech-stack strip (gentle wave + pulse) -->
-<!-- Source SVG: ./assets/tech-stack.svg  •  Icon artwork: https://devicon.dev/ -->
+<!-- Source SVG: ./assets/tech-stack.svg  
+•  Icon artwork: https://devicon.dev/ -->
 <div align="left">
   <img src="./assets/tech-stack.svg" width="520" alt="Languages and tools: C#, C, JavaScript, VS Code, React, Node.js, npm" />
 </div>
