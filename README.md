@@ -1,7 +1,6 @@
 <!-- ==================== Header / hero ==================== -->
-<img src="./assets/Bat.gif" align="right" width="42" alt="Animated Bat">
-
 <h1>
+  <img src="./assets/Bat.gif" align="right" width="42" alt="">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg">
     <img alt="Jake Rose — Software Developer · Test Automation · Game Dev" src="./assets/header-light.svg" width="560">
