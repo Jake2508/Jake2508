@@ -20,7 +20,10 @@ jobs:
           card: stats
           options: username=Jake2508&show_icons=true&theme=algolia&border_radius=20&count_private=true
           path: github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Stats card needs account-wide data (rank, totals, private contributions),
+          # which the repo-scoped GITHUB_TOKEN cannot access ("Resource not accessible
+          # by integration"). A Personal Access Token is required here.
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate languages card
         uses: readme-tools/github-readme-stats-action@v1
