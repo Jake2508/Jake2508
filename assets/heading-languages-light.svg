@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="34" viewBox="0 0 300 34" role="img" aria-label="Languages and Tools">
+  <title>Languages and Tools</title>
+  <rect x="1.5" y="3.5" width="27" height="27" rx="7" fill="none" stroke="#1f7a33" stroke-opacity="0.45"></rect>
+  <g fill="none" stroke="#1f7a33" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.5,3.5)"><path d="M8 9.5l4.2 4.5-4.2 4.5"></path><path d="M14.5 18.5h6"></path></g>
+  <text x="40" y="25" font-family="&#39;Segoe UI&#39;,Ubuntu,&#39;Helvetica Neue&#39;,Arial,sans-serif" font-size="20" font-weight="700" fill="#1f7a33">Languages and Tools</text>
+</svg>
