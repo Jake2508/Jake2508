@@ -19,8 +19,9 @@ jobs:
         with:
           card: stats
           # Re-themed to match the green README hero. Transparent bg (bg_color=00000000)
-          # so the card suits both light and dark GitHub themes.
-          options: username=Jake2508&show_icons=true&border_radius=12&hide_title=false&title_color=3fb950&icon_color=3fb950&text_color=8b949e&bg_color=00000000&ring_color=3fb950&border_color=30363d&count_private=true
+          # so the card suits both light and dark GitHub themes. Body text uses a
+          # midtone (text_color=6e7681) that stays legible on white and dark backgrounds.
+          options: username=Jake2508&show_icons=true&border_radius=12&hide_title=false&title_color=3fb950&icon_color=3fb950&text_color=6e7681&bg_color=00000000&ring_color=3fb950&border_color=30363d&count_private=true
           path: assets/github-stats.svg
           # Stats card needs account-wide data (rank, totals, private contributions),
           # which the repo-scoped GITHUB_TOKEN cannot access ("Resource not accessible
@@ -31,7 +32,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=Jake2508&layout=compact&border_radius=12&title_color=3fb950&text_color=8b949e&bg_color=00000000&border_color=30363d
+          options: username=Jake2508&layout=compact&border_radius=12&title_color=3fb950&text_color=6e7681&bg_color=00000000&border_color=30363d
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
