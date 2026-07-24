@@ -24,30 +24,10 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 </div>
 <br>   
 
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
+<!-- Icons: self-contained animated tech-stack strip (gentle wave + pulse) -->
+<!-- Source SVG: ./tech-stack.svg  •  Icon artwork: https://devicon.dev/ -->
 <div align="center">
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp/" target="_blank" rel="noreferrer">
-    <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50" />
-  </a>&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" />
-  </a>&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
-  </a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-  </a>&nbsp;
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
-  </a>&nbsp;
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" />
-  </a>
+  <img src="./tech-stack.svg" width="520" alt="Languages and tools: C#, C, JavaScript, VS Code, React, Node.js, npm" />
 </div>
 <br>
 
