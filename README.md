@@ -3,13 +3,11 @@
   <img src="./assets/Bat.gif" align="right" width="42" alt="">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg">
-    <img alt="Jake Rose — Software Developer · Test Automation · Game Dev" src="./assets/header-light.svg" width="560">
+    <img alt="Jake Rose — Software Engineer · Games · QA" src="./assets/header-light.svg" width="320">
   </picture>
 </h1>
 
-👋 Hey there! I'm a software developer passionate about building innovative and user-friendly projects. I have experience in full-stack development, test automation, and game development, working primarily with C#, .NET, JavaScript, and React.
-
-My goal is to build applications that are accessible and easy to use for everyone, right down to the little details.
+👋 Hi, I'm Jake, a C# developer experienced in building internal tools, services, automation pipelines and games. I've worked across software development, games and QA, with an interest in creative software and visual design.
 
 Outside of coding, I stay active with lots of climbing and love to immerse myself in horror novels and classic literature. Some of my favourite authors include Robert McCammon, Stephen King, Ray Bradbury, and H.G. Wells.
 
@@ -27,7 +25,7 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 <!-- Source SVG: ./assets/tech-stack.svg  
 •  Icon artwork: https://devicon.dev/ -->
 <div align="left">
-  <img src="./assets/tech-stack.svg" width="520" alt="Languages and tools: C#, C, JavaScript, VS Code, React, Node.js, npm" />
+  <img src="./assets/tech-stack.svg" width="416" alt="Languages and tools: C#, JavaScript, VS Code, React, Node.js, npm" />
 </div>
 
 <br>
@@ -43,10 +41,17 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 <!-- Begin Stats Cards -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Both cards rendered at a matching height so they align evenly side by side. -->
+<!-- Each card has a dark and a light version (see update-stats.yml), like the headings above. -->
 <div align="left">
-  <img src="./assets/github-stats.svg" height="175" alt="Jake Rose's GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats.svg">
+    <img src="./assets/github-stats-light.svg" height="175" alt="Jake Rose's GitHub Stats" />
+  </picture>
   &nbsp;&nbsp;
-  <img src="./assets/top-langs.svg" height="175" alt="Most Used Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-langs.svg">
+    <img src="./assets/top-langs-light.svg" height="175" alt="Most Used Languages" />
+  </picture>
 </div>
 <!--  End Stats Cards -->
 
