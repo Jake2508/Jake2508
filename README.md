@@ -40,17 +40,19 @@ Outside of coding, I stay active with lots of climbing and love to immerse mysel
 
 <!-- Begin Stats Cards -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Both cards rendered at a matching height so they align evenly side by side. -->
+<!-- Both cards shown at height 165 (the languages card's natural height), which makes them
+     the same size (395x165) and keeps the pair (~800px) inside GitHub's ~830px README column.
+     At 175 they need ~846px and wrap onto two lines. -->
 <!-- Each card has a dark and a light version (see update-stats.yml), like the headings above. -->
 <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats.svg">
-    <img src="./assets/github-stats-light.svg" height="175" alt="Jake Rose's GitHub Stats" />
+    <img src="./assets/github-stats-light.svg" height="165" alt="Jake Rose's GitHub Stats" />
   </picture>
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/top-langs.svg">
-    <img src="./assets/top-langs-light.svg" height="175" alt="Most Used Languages" />
+    <img src="./assets/top-langs-light.svg" height="165" alt="Most Used Languages" />
   </picture>
 </div>
 <!--  End Stats Cards -->
